@@ -1,1 +1,2 @@
 # odin-recipes
+In the Odin recipes project I will be making an html document with relative links to a few specific recipes. The recipe pages accessed from the relative links on the index html document will include a picture of the food item, ingredients, and steps to make the dish.
